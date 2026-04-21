@@ -15,7 +15,7 @@ p {
 #content {
 	background-color: green;
 }
-d:hover, d:active {
- 		background-color: red;
+h3:hover, h3:active {
+ 		background-color: purple;
  		color: purple;
  	}
