@@ -11,6 +11,9 @@ p {
 	text-align: center;
 	overflow: auto;
 	}
+	div: hover, div:active;
+	background-color: red;
+ 		color: purple;
 
 #content {
 	background-color: green;
